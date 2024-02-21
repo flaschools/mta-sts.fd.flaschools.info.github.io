@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: none
 mx: fd.flaschools.info
 max_age: 604800
